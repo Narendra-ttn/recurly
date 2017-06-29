@@ -1,0 +1,7 @@
+recurly__subscription.recurly_subscription_plans:
+  path: '/select-plan'
+  defaults:
+    _controller: '\Drupal\custom_recurly\Controller\RecurlySubscriptionController::listplans'
+    _title: 'Select your subscription plan'
+  requirements:
+    _permission: 'access content'

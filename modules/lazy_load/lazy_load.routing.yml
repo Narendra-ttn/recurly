@@ -1,0 +1,9 @@
+lazy_load.lazy_load_config_form:
+  path: '/admin/config/services/lazy_load/configuration'
+  defaults:
+    _form: '\Drupal\lazy_load\Form\LazyLoadConfigForm'
+    _title: 'Remove Images from the Lazy Loading'
+  requirements:
+    _permission: 'administer device tokens'
+  options:
+    _admin_route: TRUE

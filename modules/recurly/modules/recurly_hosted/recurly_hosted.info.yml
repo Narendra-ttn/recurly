@@ -1,0 +1,13 @@
+name: Recurly hosted pages
+description: Displays options for managing subscription accounts remotely using Recurly's "hosted pages". This module is only necessary if not using more extensive Recurly integration modules such as Commerce Recurly or Recurly.js.
+dependencies:
+  - recurly
+# core: 8.x
+package: Recurly
+type: module
+
+# Information added by Drupal.org packaging script on 2017-06-16
+version: '8.x-1.1'
+core: '8.x'
+project: 'recurly'
+datestamp: 1497626352

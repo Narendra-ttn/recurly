@@ -1,0 +1,4 @@
+services:
+  custom_recurly.custom_recurly_preprocess:
+    class: Drupal\custom_recurly\CustomRecurlyPreprocess
+    arguments: ['@recurly.format_manager', '@config.factory']

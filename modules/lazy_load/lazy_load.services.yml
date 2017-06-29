@@ -1,0 +1,6 @@
+services:
+  lazy_load.default:
+    class: Drupal\lazy_load\EventSubscriber\DefaultSubscriber
+    arguments: ['@database']
+    tags:
+      - { name: event_subscriber }

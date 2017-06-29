@@ -1,0 +1,9 @@
+test_new.test_form:
+  path: '/admin/config/test_new'
+  defaults:
+    _form: '\Drupal\test_new\Form\TestForm'
+    _title: 'Configuration for Chrome Push Notification'
+  requirements:
+    _permission: 'administer device tokens'
+  options:
+    _admin_route: TRUE

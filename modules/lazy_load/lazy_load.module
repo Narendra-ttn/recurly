@@ -1,0 +1,12 @@
+<?php
+
+/**
+ * Implements hook_page_attachments().
+ */
+function lazy_load_page_attachments(array &$page) {
+  //$negotiator = \Drupal::service('domain.negotiator');
+  //$domainID = $negotiator->getActiveDomain()->id();
+  //if ($domainID == 'dev_fe_family_education_qa6_tothenew_net') {
+    $page['#attached']['library'][] = 'lazy_load/lazy_load.lazyLoading';
+  //}
+}

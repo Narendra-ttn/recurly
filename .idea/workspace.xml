@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9a108b78-7f2b-4e42-9102-8718ac5e53fe" name="Default" comment="" />
+    <ignored path="testing.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="testing" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="RecurlySubscriptionController.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/modules/custom_recurly/src/Controller/RecurlySubscriptionController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="66" column="49" selection-start="2509" selection-end="2509" vertical-scroll-proportion="0.19195612" vertical-offset="966" max-vertical-offset="2176">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RecurlyPreprocess.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/recurly/src/RecurlyPreprocess.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="8" column="3" selection-start="142" selection-end="142" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="4199">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CustomRecurlyPreprocess.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/custom_recurly/src/CustomRecurlyPreprocess.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="59" column="32" selection-start="2136" selection-end="2148" vertical-scroll-proportion="-9.153846" vertical-offset="748" max-vertical-offset="1768">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="recurlyjs.module" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/recurly/modules/recurlyjs/recurlyjs.module">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="30" column="36" selection-start="1191" selection-end="1237" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2618">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="custom-recurly-subscription-plan-select.html.twig" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/modules/custom_recurly/templates/custom-recurly-subscription-plan-select.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="33" column="35" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="901">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/core/lib/Drupal/Core/Plugin/DefaultPluginManager.php" />
+        <option value="$PROJECT_DIR$/modules/video_embed_field/src/Plugin/video_embed_field/Provider/Vimeo.php" />
+        <option value="$PROJECT_DIR$/modules/video_filter/video_filter.module" />
+        <option value="$PROJECT_DIR$/modules/video_embed_field/src/Plugin/video_embed_field/Provider/JwPlayer.php" />
+        <option value="$PROJECT_DIR$/modules/video_embed_field/src/ProviderManager.php" />
+        <option value="$PROJECT_DIR$/modules/video_embed_field/modules/video_embed_wysiwyg/src/Form/VideoEmbedDialog.php" />
+        <option value="$PROJECT_DIR$/modules/ms_ajax_form_example/src/Step/StepThree.php" />
+        <option value="$PROJECT_DIR$/modules/ms_ajax_form_example/src/Step/StepsEnum.php" />
+        <option value="$PROJECT_DIR$/modules/ms_ajax_form_example/src/Step/StepTwo.php" />
+        <option value="$PROJECT_DIR$/modules/ms_ajax_form_example/src/Step/StepFinalize.php" />
+        <option value="$USER_HOME$/Downloads/ms_ajax_form_example/src/Button/StepThreeFinishButton.php" />
+        <option value="$PROJECT_DIR$/modules/ms_ajax_form_example/src/Validator/ValidatorEmail.php" />
+        <option value="$PROJECT_DIR$/modules/ms_ajax_form_example/src/Validator/EmailCheckMaropost.php" />
+        <option value="$PROJECT_DIR$/modules/ms_ajax_form_example/src/Step/StepOne.php" />
+        <option value="$PROJECT_DIR$/modules/ms_ajax_form_example/src/Form/MultiStepExampleForm.php" />
+        <option value="$PROJECT_DIR$/modules/lazyloader/lazyloader.routing.yml" />
+        <option value="$PROJECT_DIR$/modules/lazyloader/src/Form/LazyloaderAdminConfigure.php" />
+        <option value="$PROJECT_DIR$/modules/lazyloader/src/Form/LazyloaderAdminExclude.php" />
+        <option value="$PROJECT_DIR$/modules/lazyloader/lazyloader.module" />
+        <option value="$PROJECT_DIR$/core/themes/seven/seven.libraries.yml" />
+        <option value="$PROJECT_DIR$/libraries/blazy/example/index.html" />
+        <option value="$PROJECT_DIR$/../lazzy/index.html" />
+        <option value="$PROJECT_DIR$/core/themes/bartik/templates/page.html.twig" />
+        <option value="$PROJECT_DIR$/core/modules/quickedit/js/theme.js" />
+        <option value="$PROJECT_DIR$/modules/lazy_load/lazy_load.info.yml" />
+        <option value="$PROJECT_DIR$/modules/lazy_load/lazy_load.services.yml" />
+        <option value="$PROJECT_DIR$/core/modules/contextual/js/contextual.js" />
+        <option value="$PROJECT_DIR$/libraries/blazy/testing.js" />
+        <option value="$PROJECT_DIR$/libraries/blazy/blazy.js" />
+        <option value="$PROJECT_DIR$/core/themes/bartik/bartik.libraries.yml" />
+        <option value="$PROJECT_DIR$/modules/lazy_load/lazy_load.libraries.yml" />
+        <option value="$PROJECT_DIR$/core/themes/classy/templates/layout/html.html.twig" />
+        <option value="$PROJECT_DIR$/modules/lazy_load/src/Form/LazyLoadConfigForm.php" />
+        <option value="$PROJECT_DIR$/modules/lazy_load/lazy_load.rounting.yml" />
+        <option value="$PROJECT_DIR$/modules/lazy_load/lazy_load.module" />
+        <option value="$PROJECT_DIR$/modules/lazy_load/js/lazy_load.js" />
+        <option value="$PROJECT_DIR$/modules/lazy_load/src/EventSubscriber/DefaultSubscriber.php" />
+        <option value="$PROJECT_DIR$/modules/custom_recurly/custom_recurly.install" />
+        <option value="$PROJECT_DIR$/modules/recurly/src/Form/RecurlySubscriptionPlansForm.php" />
+        <option value="$PROJECT_DIR$/modules/lazy_load/lazy_load.routing.yml" />
+        <option value="$PROJECT_DIR$/modules/custom_recurly/custom_recurly.routing.yml" />
+        <option value="$PROJECT_DIR$/modules/recurly/recurly.module" />
+        <option value="$PROJECT_DIR$/modules/recurly/templates/recurly-subscription-plan-select.html.twig" />
+        <option value="$PROJECT_DIR$/modules/recurly/modules/recurlyjs/recurlyjs.module" />
+        <option value="$PROJECT_DIR$/modules/custom_recurly/templates/custom-recurly-subscription-plan-select.html.twig" />
+        <option value="$PROJECT_DIR$/modules/recurly/src/RecurlyPreprocess.php" />
+        <option value="$PROJECT_DIR$/modules/recurly/src/Controller/RecurlySubscriptionSelectPlanController.php" />
+        <option value="$PROJECT_DIR$/modules/custom_recurly/src/Controller/RecurlySubscriptionController.php" />
+        <option value="$PROJECT_DIR$/modules/custom_recurly/custom_recurly.services.yml" />
+        <option value="$PROJECT_DIR$/modules/custom_recurly/custom_recurly.module" />
+        <option value="$PROJECT_DIR$/modules/custom_recurly/src/CustomRecurlyPreprocess.php" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="24" />
+    <option name="width" value="1366" />
+    <option name="height" value="720" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom_recurly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom_recurly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="testing" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="modules" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="custom_recurly" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Controller" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="options.searchVisible" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/chrome_push_notification" />
+    <property name="FullScreen" value="false" />
+    <property name="SearchEverywhereHistory" value="" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/modules/ms_ajax_form_example/src/Validator" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9a108b78-7f2b-4e42-9102-8718ac5e53fe" name="Default" comment="" />
+      <created>1495168119316</created>
+      <updated>1495168119316</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="24" width="1366" height="720" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24962178" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32890365" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.555" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="2" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/sites/default/settings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="32" selection-start="1382" selection-end="1382" vertical-scroll-proportion="0.6511194" vertical-offset="212" max-vertical-offset="13311" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/lib/Drupal/Core/Form/FormStateInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="57" selection-start="1196" selection-end="1196" vertical-scroll-proportion="0.0" vertical-offset="697" max-vertical-offset="19023" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/symfony/http-foundation/Response.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="411" column="20" selection-start="14286" selection-end="14286" vertical-scroll-proportion="0.3483146" vertical-offset="6682" max-vertical-offset="20043" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/templates/node.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="21" selection-start="3379" selection-end="3379" vertical-scroll-proportion="0.2552381" vertical-offset="869" max-vertical-offset="1853" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/blazy/blazy.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="1282" selection-start="1470" selection-end="1483" vertical-scroll-proportion="0.16634052" vertical-offset="0" max-vertical-offset="511" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/lazy_load/lazy_load.info.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="19" selection-start="167" selection-end="167" vertical-scroll-proportion="0.21597096" vertical-offset="0" max-vertical-offset="551" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/lazy_load/lazy_load.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="5" column="31" selection-start="59" selection-end="74" vertical-scroll-proportion="0.14834206" vertical-offset="0" max-vertical-offset="573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/blazy/blazy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="213" column="47" selection-start="7471" selection-end="7488" vertical-scroll-proportion="0.50183153" vertical-offset="3347" max-vertical-offset="6902" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/libraries/blazy/testing.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="14" selection-start="51" selection-end="61" vertical-scroll-proportion="0.059336822" vertical-offset="0" max-vertical-offset="573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/contextual/js/contextual.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="23" column="47" selection-start="666" selection-end="681" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="4437" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/bartik.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="61" column="37" selection-start="2239" selection-end="2239" vertical-scroll-proportion="0.32635254" vertical-offset="850" max-vertical-offset="1564" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/lazy_load/lazy_load.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="21" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/contextual/contextual.libraries.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="1" selection-start="1" selection-end="24" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="884" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/dom_c.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="720" column="40" selection-start="22157" selection-end="22162" vertical-scroll-proportion="6.55618" vertical-offset="8739" max-vertical-offset="36873" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/bartik/templates/page.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="12" selection-start="2830" selection-end="2830" vertical-scroll-proportion="-0.0" vertical-offset="1122" max-vertical-offset="2278" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/themes/classy/templates/layout/html.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="13" selection-start="989" selection-end="998" vertical-scroll-proportion="0.22303474" vertical-offset="337" max-vertical-offset="1037" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/chrome_push_notification/src/Form/ChromePushNotificationSendMessageForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.38857144" vertical-offset="204" max-vertical-offset="2686" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/chrome_push_notification/src/Controller/PushNotificationController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-3.1085715" vertical-offset="1632" max-vertical-offset="2278" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/chrome_push_notification/src/Model/ChromeApiCall.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="20" column="108" selection-start="471" selection-end="575" vertical-scroll-proportion="0.64761907" vertical-offset="0" max-vertical-offset="1241" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/chrome_push_notification/chrome_push_notification.routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="11" selection-start="841" selection-end="841" vertical-scroll-proportion="0.6527051" vertical-offset="0" max-vertical-offset="969" />
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/chrome_push_notification/src/Form/ChromePushNotificationConfigForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="48" selection-start="520" selection-end="556" vertical-scroll-proportion="0.8080439" vertical-offset="0" max-vertical-offset="1683" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/lazy_load/src/Form/LazyLoadConfigForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="47" column="48" selection-start="1047" selection-end="1070" vertical-scroll-proportion="0.85" vertical-offset="357" max-vertical-offset="1377" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/lazy_load/js/blazy.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="74" column="33" selection-start="2956" selection-end="2956" vertical-scroll-proportion="0.6660714" vertical-offset="885" max-vertical-offset="7004" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/lazy_load/lazy_load.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="4" selection-start="361" selection-end="361" vertical-scroll-proportion="0.3107861" vertical-offset="0" max-vertical-offset="547" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/lazy_load/js/lazy_load.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="18" selection-start="633" selection-end="636" vertical-scroll-proportion="0.56369984" vertical-offset="0" max-vertical-offset="646" />
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/php/lib/php.jar!/com/jetbrains/php/lang/psi/stubs/data/standard_8.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="825" column="9" selection-start="26460" selection-end="26460" vertical-scroll-proportion="0.34917733" vertical-offset="13834" max-vertical-offset="18734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/lazy_load/src/EventSubscriber/DefaultSubscriber.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="86" selection-start="2757" selection-end="2757" vertical-scroll-proportion="0.6837294" vertical-offset="901" max-vertical-offset="2550" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/lib/Drupal/Core/Database/Query/QueryConditionTrait.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="79" column="32" selection-start="1439" selection-end="1447" vertical-scroll-proportion="0.34917733" vertical-offset="1152" max-vertical-offset="2142">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/recurly/src/Form/RecurlySubscriptionPlansForm.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="275" column="28" selection-start="9382" selection-end="9392" vertical-scroll-proportion="0.5543071" vertical-offset="4294" max-vertical-offset="4828" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/lazy_load/lazy_load.routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="22" selection-start="300" selection-end="300" vertical-scroll-proportion="0.23734729" vertical-offset="0" max-vertical-offset="573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom_recurly/custom_recurly.install">
+      <provider editor-type-id="com.intellij.persistence.database.editor.CsvTableFileEditorProvider">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="23" selection-start="569" selection-end="569" vertical-scroll-proportion="0.5904936" vertical-offset="102" max-vertical-offset="799" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/system/src/Tests/Update/UpdatePathTestBaseTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="41" selection-start="2748" selection-end="2756" vertical-scroll-proportion="0.33333334" vertical-offset="1177" max-vertical-offset="1734" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/modules/taxonomy/tests/src/Kernel/ForwardRevisionTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="117" column="29" selection-start="3079" selection-end="3205" vertical-scroll-proportion="0.72571427" vertical-offset="1506" max-vertical-offset="2057" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/lib/Drupal/Core/Database/Query/SelectInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="216" column="18" selection-start="6762" selection-end="6762" vertical-scroll-proportion="0.34857142" vertical-offset="3489" max-vertical-offset="11322">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/lib/Drupal/Core/Database/Query/ConditionInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="18" selection-start="3920" selection-end="3920" vertical-scroll-proportion="0.34857142" vertical-offset="1313" max-vertical-offset="3859" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom_recurly/custom_recurly.routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="81" selection-start="137" selection-end="166" vertical-scroll-proportion="0.08900524" vertical-offset="0" max-vertical-offset="573" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/lib/Drupal/Core/Routing/RouteMatchInterface.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="55" column="18" selection-start="1800" selection-end="1800" vertical-scroll-proportion="0.34857142" vertical-offset="752" max-vertical-offset="1785">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/recurly/templates/recurly-subscription-plan-select.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="0" selection-start="131" selection-end="131" vertical-scroll-proportion="0.29142857" vertical-offset="0" max-vertical-offset="901" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/recurly/src/RecurlyFormatManager.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="172" column="18" selection-start="5613" selection-end="5613" vertical-scroll-proportion="-1.4662921" vertical-offset="3656" max-vertical-offset="5066">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/recurly/recurly.routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="96" selection-start="150" selection-end="160" vertical-scroll-proportion="0.093406595" vertical-offset="0" max-vertical-offset="782" />
+      </provider>
+    </entry>
+    <entry file="file:///usr/share/applications/geany.desktop">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2737" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/recurly/src/Controller/RecurlySubscriptionSelectPlanController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="15" column="8" selection-start="368" selection-end="368" vertical-scroll-proportion="0.3326923" vertical-offset="48" max-vertical-offset="2210" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom_recurly/templates/custom-recurly-subscription-plan-select.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="35" selection-start="1426" selection-end="1426" vertical-scroll-proportion="0.0" vertical-offset="289" max-vertical-offset="901">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom_recurly/custom_recurly.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="173" selection-end="173" vertical-scroll-proportion="0.123411976" vertical-offset="0" max-vertical-offset="551" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/recurly/recurly.services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="38" selection-start="2431" selection-end="2431" vertical-scroll-proportion="0.5680581" vertical-offset="588" max-vertical-offset="1139" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom_recurly/custom_recurly.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="80" column="1" selection-start="2459" selection-end="2459" vertical-scroll-proportion="0.82285714" vertical-offset="877" max-vertical-offset="1428" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/recurly/modules/recurlyjs/recurlyjs.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="36" selection-start="1191" selection-end="1237" vertical-scroll-proportion="0.0" vertical-offset="510" max-vertical-offset="2618">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/recurly/recurly.module">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="588" column="71" selection-start="19016" selection-end="19030" vertical-scroll-proportion="0.46484375" vertical-offset="9605" max-vertical-offset="12580">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom_recurly/src/CustomRecurlyPreprocess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="59" column="32" selection-start="2136" selection-end="2148" vertical-scroll-proportion="-9.153846" vertical-offset="748" max-vertical-offset="1768">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/recurly/src/RecurlyPreprocess.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="8" column="3" selection-start="142" selection-end="142" vertical-scroll-proportion="-3.9230769" vertical-offset="0" max-vertical-offset="4199">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/modules/custom_recurly/src/Controller/RecurlySubscriptionController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="66" column="49" selection-start="2509" selection-end="2509" vertical-scroll-proportion="0.19195612" vertical-offset="966" max-vertical-offset="2176">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

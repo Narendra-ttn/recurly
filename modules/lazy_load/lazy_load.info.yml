@@ -1,0 +1,8 @@
+name: Lazy Loading
+type: module
+description: "Provide lazzy loading with cloudinary."
+package: lazy_load
+dependencies:
+  - drupal:image
+core: '8.x'
+project: 'lazy_load'

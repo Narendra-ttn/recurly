@@ -1,0 +1,6 @@
+name: Testing
+type: module
+description: 'Php Unit Testing Custom Module.'
+# core: 8.x
+package: Custom	
+core: '8.x'
