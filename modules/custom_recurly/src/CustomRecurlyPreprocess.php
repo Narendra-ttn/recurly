@@ -95,5 +95,7 @@ class CustomRecurlyPreprocess extends RecurlyPreprocess {
     if (!empty($entity) && recurly_account_load(['entity_type' => $entity_type, 'entity_id' => $entity->id()])) {
       $variables['expired_subscriptions'] = empty($subscriptions);
     }
+    echo "<pre>";
+    print_r($variables['filtered_plans']);die;
   }
 }

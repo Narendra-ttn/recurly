@@ -4,17 +4,23 @@
  * @file
  * Contains custom_recurly.module functionality.
  */
-use \Drupal\Core\Form\FormStateInterface;
+use Drupal\Core\Form\FormStateInterface;
 
 /**
  * Implements hook_form_alter().
  */
 function custom_recurly_form_alter(array &$form, FormStateInterface $form_state, $form_id) {
   if ($form_id == 'recurly_subscription_plans_form') {
-    $form['actions']['submit']['#validate'][] = '_save_subscription_plan';
+    $form['#submit'][] = '_save_subscription_plan';
+  } elseif ($form_id == 'recurlyjs_subscribe') {
+    $url = \Drupal\Core\Url::fromRoute('contact.site_page');
+    $form_state->setRedirectUrl($url);
   }
 }
 
+/*
+ * Save all subscription plan to our database
+ */
 function _save_subscription_plan(array &$form, FormStateInterface $form_state) {
   $all_plans = recurly_subscription_plans();
   $data = serialize($all_plans);
@@ -62,6 +68,9 @@ function custom_recurly_theme() {
   return $items;
 }
 
+/*
+ * Get all subscription Plans
+ */
 function _get_all_subscription_plans() {
   $plan = \Drupal::database()->select('recurly_settings')
     ->fields('recurly_settings')
@@ -77,5 +86,5 @@ function _get_all_subscription_plans() {
  * Shared preprocess function for the presentation of the signup & change page.
  */
 function template_preprocess_custom_recurly_subscription_plan_select(&$variables) {
-  \Drupal::service('custom_recurly.custom_recurly_preprocess')->preprocessRecurlySubscriptionPlanSelect($variables);
+  \Drupal::service('recurly.recurly_preprocess')->preprocessRecurlySubscriptionPlanSelect($variables);
 }
